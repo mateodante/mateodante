@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+.encabezado{
+    color: white;
+    background-color: #850000;
+    margin: 0%;
+    padding: 1%;
+    text-align: center;
+    
+}
+.carrusel{
+    width: 50%;
+    vertical-align: middle;
+    display: inline-block;
+   
+    
+}
+.texto{
+    vertical-align: middle;
+    display: inline-block;
+    width: 50%;
+    float:right;
+}
+
+
